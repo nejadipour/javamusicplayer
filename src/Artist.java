@@ -102,6 +102,8 @@ public class Artist
                 System.out.println("Music " + musicNum + ":");
                 music.print();
 
+                musicNum++;
+
             }
 
             return true;
